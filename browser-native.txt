@@ -1,1 +1,7 @@
-Browser Native Web Development
+Browser Native Web Development: No Frameworks, Just the Browser 
+
+If you start a new project by asking, "Which web framework should we use?", you might have lost the battle before it begins. Only about 5% of all public websites use React; less than 1% use Angular or Vue. 
+
+In this talk, Scott Davis (author and digital accessibility advocate) will introduce you to browser native web development -- what some call "vanilla HTML, CSS, and JavaScript". If that sounds like heresy, you might be interested in learning why Netflix dropped React for its landing page. (Spoiler alert: performance) You might find it fascinating to know why SpaceX astronauts use a browser native touchscreen to fly the Dragon spacecraft to the International Space Station. (Spoiler alert: stability and reliability) If you expect your users to access your website from a smart phone (two-thirds of all web traffic is mobile), you might want to learn more about what Addy Osmani (Head of Chrome Developer Experience at Google) calls The Cost of JavaScript. According to Addy, "JavaScript is the most expensive resource your site uses today - especially on mobile and average laptops."  
+
+If your website doesn't require performance, stability, or reliability, then by all means start your project with a web framework. If, on the other hand, those are important aspects of your application, come join us to learn more about browser native web development.   
